@@ -1,0 +1,92 @@
+.table {
+    margin: auto;
+    width: 1000px;
+    height: 600px;
+    border: 1px solid gray;
+    padding: 1px;
+
+}
+
+.itis1{
+    font-size: 190%;
+    vertical-align: top;
+    width: 160px;
+    height: 140px;
+}
+
+.itis2{
+    font-size: 140%;
+    vertical-align: top;
+    height: 120px;
+    width: 270px;
+}
+
+.itis3{
+    vertical-align: top;
+    font-size: 50%;
+    height: 60px;
+}
+
+.itis4{
+    font-size: 110%;
+    vertical-align: top;
+}
+
+.itis5{
+    font-size: 90%;
+    height: 80px;
+    vertical-align: top;
+}
+
+.itis6{
+    font-size: 95%;
+    vertical-align: top;
+}
+
+
+.oxbad{
+    font-size: 100%;
+    font-family: cursive;
+}
+
+.buttons{
+    vertical-align: center;
+}
+
+.lines{
+    font-size: 90%;
+    height: 110px;
+}
+
+.write{
+    font-size: 140%;
+    text-align: center;
+    vertical-align: top;
+    font-family:Times, Times New Roman, serif;
+
+}
+
+.table td {
+    border: 1px solid gray;
+    padding: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
